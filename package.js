@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'knox': "0.8.5"
+  knox: "0.8.5"
 });
 
 Package.on_use(function (api) {
