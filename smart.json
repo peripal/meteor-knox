@@ -1,0 +1,9 @@
+{
+  "name": "knox",
+  "description": "Node Amazon S3 Client.",
+  "homepage": "https://github.com/LearnBoost/knox",
+  "author": "TJ Holowaychuk <tj@learnboost.com>",
+  "version": "0.8.5",
+  "git": "https://github.com/LearnBoost/knox.git",
+  "packages": {}
+}
